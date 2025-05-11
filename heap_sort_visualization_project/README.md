@@ -31,6 +31,7 @@
 
 ## Структура проекту
 
+```bash
 heap_sort_visualization_project/
 │
 ├── heap_sort/
@@ -40,6 +41,7 @@ heap_sort_visualization_project/
 ├── main.py              # Точка входу
 ├── requirements.txt     # Перелік залежностей
 └── README.md            # Документація
+```
 
 ## Інструкція з встановлення та запуску
 
